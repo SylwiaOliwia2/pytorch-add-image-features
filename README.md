@@ -1,2 +1,3 @@
 # pytorch-add-image-features
-Add image features (ex. remote sensing indexes) to Pytorch dataset.
+
+Jupyter Notebook example, how to add image features (ex. satelite imagery indexes like NDVI, NDWI) to Pytorch dataset.
